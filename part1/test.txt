@@ -1,0 +1,5 @@
+'example.com -- 01/Jul/1995:00:00:06 --0400 "GET /path/HTTP/1.0" 200 5001'
+'example.com -- 01/Jul/1995:00:00:06 --0400 "GET /path/HTTP/1.0" 200 5000'
+'example.e.e.com -- 01/Jul/1995:00:00:06 --0400 "GET /path/path/path/HTTP/1.0" 200 5001'
+'example.com -- 01/Jul/1995:00:00:06 --0400 "GET /path/HTTP/1.0" 200 5001'
+'example.com -- 01/Jul/1995:00:00:06 --0400 "GET /path
